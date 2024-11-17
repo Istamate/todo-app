@@ -87,7 +87,7 @@ export default function Todos() {
               placeholder="Tell me more about it!"
             />
           </div>
-          <button type="submit">Add</button>
+          <button type="submit">{editing ? "Edit" : "Add"}</button>
         </form>
       </div>
 

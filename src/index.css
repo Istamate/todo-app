@@ -1,0 +1,13 @@
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh; /* Optional: to center vertically within the viewport */
+  width: 33%; /* Sets the width to 100vh */
+  margin: 0 auto;
+}
+
+.bordered {
+  border: 1px solid black;
+  border-radius: 15px; /* Adjust the value to make the border rounder */
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, Bread, Eggs, Butter"
+  },
+  {
+    "id": 2,
+    "title": "Complete project report",
+    "description": "Finish the final draft and submit by EOD"
+  },
+  {
+    "id": 3,
+    "title": "CantDelete",
+    "description": "F U you can't delete me"
+  },
+  {
+    "id": 4,
+    "title": "Read a book",
+    "description": "Read at least 50 pages of the current book"
+  },
+  {
+    "id": 5,
+    "title": "Call mom",
+    "description": "Catch up with mom over the phone"
+  },
+  {
+    "id": 6,
+    "title": "Clean the house",
+    "description": "Vacuum and dust all rooms"
+  },
+  {
+    "id": 7,
+    "title": "Pay bills",
+    "description": "Pay electricity and internet bills"
+  },
+  {
+    "id": 8,
+    "title": "Workout",
+    "description": "Go for a 30-minute run"
+  },
+  {
+    "id": 9,
+    "title": "Prepare dinner",
+    "description": "Cook pasta and salad for dinner"
+  },
+  {
+    "id": 10,
+    "title": "Plan weekend trip",
+    "description": "Research and book activities for the weekend trip"
+  }
+]
